@@ -41,6 +41,6 @@ See winston-airbrake [documentation](https://github.com/shakefon/winston-airbrak
 
 Other related projects:
 
-[meteor-winston] (https://github.com/tomrogers3/meteor-winston)
-[meteor-winston-loggly] (https://github.com/tomrogers3/meteor-winston-loggly)
+* [meteor-winston] (https://github.com/tomrogers3/meteor-winston)
+* [meteor-winston-loggly] (https://github.com/tomrogers3/meteor-winston-loggly)
 
