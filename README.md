@@ -38,3 +38,9 @@ Winston.error('Hit the airbrakes!'); // this dummy test error should show up in 
 ```
 
 See winston-airbrake [documentation](https://github.com/shakefon/winston-airbrake) for more details.
+
+Other related projects:
+
+[meteor-winston] (https://github.com/tomrogers3/meteor-winston)
+[meteor-winston-loggly] (https://github.com/tomrogers3/meteor-winston-loggly)
+
